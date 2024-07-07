@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://cl56mvdsqktco"]
+
+[ext_resource type="Texture2D" uid="uid://b6ratahiyf82v" path="res://Textures/SPRITE_ENV_FLOORTILES/ASEPRITE_FLOOR_COBBLESTONE_3_renderWIP.png" id="1_wq41f"]
+
+[resource]
+albedo_texture = ExtResource("1_wq41f")

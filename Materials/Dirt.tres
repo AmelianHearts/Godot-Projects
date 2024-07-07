@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://dxj8qe010t1qe"]
+
+[ext_resource type="Texture2D" uid="uid://bgjewijdg5b0l" path="res://Textures/SPRITE_ENV_FLOORTILES/ASEPRITE_FLOOR_Dirt_1.png" id="1_eqt5i"]
+
+[resource]
+albedo_texture = ExtResource("1_eqt5i")
